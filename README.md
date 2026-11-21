@@ -32,7 +32,7 @@ Duke Nukem Forever in Unreal Engine 1 as it was in the E3 trailer, based on the 
 - [https://archive.org/details/dnf-2001-build](https://archive.org/details/dnf-2001-build)
                      
                      
-                     
+```                     
                      
                      ████████
                ████████████████████
@@ -59,6 +59,8 @@ Duke Nukem Forever in Unreal Engine 1 as it was in the E3 trailer, based on the 
                ████████████████████
                      ████████
 
+```
+```
                  x0r_jmp PRESENTS
    D U K E   N U K E M   F O R E V E R   2 0 0 1
                    ╔═══════════╗
@@ -105,6 +107,8 @@ Duke Nukem Forever in Unreal Engine 1 as it was in the E3 trailer, based on the 
 
  YOU MAY NEVER KNOW US, BUT NEVER FORGET OUR GIFTS
                 ALWAYS BET ON DUKE
+
+```
 
 # Welcome to Original Duke Nukem Forever 2001 Leak #
 
