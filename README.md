@@ -15,7 +15,7 @@ Duke Nukem Forever in Unreal Engine 1 as it was in the E3 trailer, based on the 
 
 [![Duke Nukem Forever Editor 2001 & 2011: DN3D Development](https://img.youtube.com/vi/tKzINTSMbp8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?dEt6SU5UU01icDg)
 
-[![Duke Nukem Forever E3 2001 Trailer: Atomic 4K Remake (v1.1)](https://img.youtube.com/vi/cN9klG6_uOw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Y045a2xHNl91T3c)
+[![Duke Nukem Forever E3 2001 Trailer](https://img.youtube.com/vi/TDlB2P1leRM/hqdefault.jpg)](https://ytembed.macosxjs.com/?Y045a2xHNl91T3c)
 
 [https://raw.githubusercontent.com/igiteam/duke-nukem-forever-2001/refs/heads/main/DNF2001.png](https://raw.githubusercontent.com/igiteam/duke-nukem-forever-2001/refs/heads/main/DNF2001.png)
 
