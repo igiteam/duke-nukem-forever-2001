@@ -17,7 +17,7 @@ Duke Nukem Forever in Unreal Engine 1 as it was in the E3 trailer, based on the 
 
 [![Duke Nukem Forever E3 2001 Trailer](https://img.youtube.com/vi/TDlB2P1leRM/hqdefault.jpg)](https://ytembed.macosxjs.com/?Y045a2xHNl91T3c)
 
-[https://raw.githubusercontent.com/igiteam/duke-nukem-forever-2001/refs/heads/main/DNF2001.png](https://raw.githubusercontent.com/igiteam/duke-nukem-forever-2001/refs/heads/main/DNF2001.png)
+![https://raw.githubusercontent.com/igiteam/duke-nukem-forever-2001/refs/heads/main/DNF2001.png](https://raw.githubusercontent.com/igiteam/duke-nukem-forever-2001/refs/heads/main/DNF2001.png)
 
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
